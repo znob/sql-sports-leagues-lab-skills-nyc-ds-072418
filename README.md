@@ -2,6 +2,8 @@
 # SQL Sports Leagues Lab - Paired Programming
 
 ![](http://www.sportsmuntra.com/wp-content/uploads/2015/03/SD-MajorLeagueBaseball-1.jpg)
+
+
 We are going to build a SQL database to help sports leagues keep track of of their teams and players.  We also will be able to log games and keep track of scores.  In this lab we will utilize all of the tools we learned in the previous lessons and labs.  We will make tables for `leagues`, `teams`, `players`, and `games`, populate these tables with data and make the proper associations, and query from these tables to select interesting information.
 
 ## Objectives
